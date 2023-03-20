@@ -1,3 +1,7 @@
+Open the browser and go to http://localhost/healthcare/
+
+
+
 Accessing admin accounts
 Username: admin@gmail.com
 Password: admin
